@@ -1,11 +1,12 @@
-body {
+.indexstyle {
     position: absolute;
-    width: 1440px;
-    height: 1028px;
+    
     background-image: url(backgroundhouse.png);
     background-repeat: no-repeat;
     background-size:cover;
     height:100%;
+    width:100%;
+
 background-color: black;
     }
 .login{
@@ -20,9 +21,68 @@ font-style: normal;
 font-weight: 500;
 font-size: 64px;
 line-height: 75px;
-/* identical to box height */
-
 letter-spacing: -0.015em;
-
 color: #DCDCDC;
+}
+button{
+    position: absolute;
+    width: 300px;
+    height: 60px;
+    margin: 70px;
+    color:white;
+    background: #FFCD2D;
+    backdrop-filter: blur(200px);
+    border-radius: 38px;
+}
+.inputs{
+    padding:20px;
+    width:300px;
+    border-radius: 30px;
+    background: linear-gradient(90.23deg, rgba(0, 0, 0, 0.61) 0.19%, rgba(0, 0, 0, 0.38) 102.56%);
+    background-blend-mode: overlay;
+}
+.homestyle{
+    background:#CDCFEE;
+}
+.flexing{
+    display:flex;
+    
+}
+.fit{
+    position:absolute;
+    left:91px;
+    top:185px;
+}
+.fit1{
+    position: absolute;
+left: 35.83%;
+right: 30.39%;
+top: 28.59%;
+bottom: 10.2%;
+}
+.fit2{
+    position: absolute;
+left: 63.83%;
+right: 30.39%;
+top: 25.59%;
+bottom: 10.2%;
+}
+.fitting{
+    position:absolute;
+    left:115px;
+    top:260px;
+}
+.fitting1{
+    position: absolute;
+left: 37.83%;
+right: 30.39%;
+top: 36.59%;
+bottom: 10.2%;
+}
+.fitting2{
+    position: absolute;
+    left: 65.83%;
+    right: 30.39%;
+    top: 34.59%;
+    bottom: 10.2%;
 }
