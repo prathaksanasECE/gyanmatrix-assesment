@@ -1,0 +1,115 @@
+body{
+background: #FFB6A9;
+}
+
+.rectangle{
+  box-sizing: border-box;
+  position: absolute;
+  left: 12%;
+  right: 5%;
+  top: 16.86%;
+  bottom: -29%;
+  background: #000000;
+  border: 1px solid #000000;
+  border-radius: 29px;
+}
+.bgcolour{
+  position: absolute;
+  left: 11%;
+  right: 5%;
+  top: 16.29%;
+  bottom: -27.31%;
+  background: #9C1801;
+  filter: blur(20px);
+  border-radius: 29px;
+}
+.harry{
+  position: absolute;
+  left: 62%;
+  right: 15.28%;
+  top: 30%;
+  bottom: 70.56%;
+  filter: drop-shadow(4px 4px 30px rgba(0, 0, 0, 0.25));
+  border-radius: 21px;
+}
+.logolion{
+  position: absolute;
+  left: 37.91%;
+  right: 37.72%;
+  top: -2.47%;
+  bottom: 70.57%;
+}
+.logo{
+padding-bottom: 30px;
+margin: -9 px;
+}
+.name{
+    position: absolute;
+    left: 20.74%;
+    right: 64.04%;
+    top: 22.56%;
+    bottom: 68.64%;
+    font-family: 'Pirata One';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 50x;
+    line-height: 82px;
+    color: #DCDCDC
+  }
+  .species{
+    position: absolute;
+    left: 20.26%;
+    right: 83.63%;
+    top: 36.52%;
+    bottom: 60.15%;
+    font-family: 'Pirata One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px; 
+    line-height: 31px;
+    letter-spacing: 0.05em;
+    color: #DCDCDC;
+  }
+  .human{
+    position: absolute;
+    left: 34.8%;
+    right: 59.26%;
+    top: 36.52%;
+    bottom: 60.15%;
+    font-family: 'Pirata One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 31px;
+    letter-spacing: 0.05em;
+    color: #DCDCDC;
+  }
+  .gender{
+      position: absolute;
+      left: 20.26%;
+      right: 84.63%;
+      top: 42.52%;
+      bottom: 53.15%;
+      font-family: 'Pirata One';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 24px; 
+      line-height: 31px;
+      letter-spacing: 0.05em;
+      color: #DCDCDC;   
+  }
+  .Female{
+    position: absolute;
+    left: 34.8%;
+    right: 58.77%;
+    top: 42.96%;
+    bottom: 53.71%;
+    font-family: 'Pirata One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 31px;
+    letter-spacing: 0.05em;
+    color: #DCDCDC;
+  
+  }
