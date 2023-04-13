@@ -1,0 +1,69 @@
+body{
+  
+background: #CDCFEE;
+
+}
+.flexing{
+    display:flex;
+    
+}
+.rect{
+    position: absolute;
+width: 362px;
+height: 353px;
+left: 83px;
+top: 136px;
+
+}
+.rect1{
+    position: absolute;
+    width: 362px;
+    height: 353px;
+    left: 539px;
+    top: 136px;
+}
+.rect2{
+    position: absolute;
+    width: 362px;
+    height: 353px;
+    left: 995px;
+    top: 136px;
+    
+}
+
+.rect_{
+    position: absolute;
+    width: 362px;
+    height: 353px;
+    left: 83px;
+    top: 534px;
+}
+.rect_1{
+    position: absolute;
+    width: 362px;
+    height: 353px;
+    left: 539px;
+    top: 534px;
+}
+.rect_2{
+    position: absolute;
+    width: 362px;
+    height: 353px;
+    left: 995px;
+    top: 534px;
+    
+}
+.students{
+    position: absolute;
+    width: 217px;
+    height: 83px;
+    left: 958px;
+    top: 37px;
+}
+.staffs{
+    position: absolute;
+width: 162px;
+height: 83px;
+left: 1243px;
+top: 37px;
+}
