@@ -48,41 +48,63 @@ button{
     display:flex;
     
 }
-.fit{
-    position:absolute;
-    left:91px;
-    top:185px;
-}
-.fit1{
+.rect{
     position: absolute;
-left: 35.83%;
-right: 30.39%;
-top: 28.59%;
-bottom: 10.2%;
+width: 362px;
+height: 353px;
+left: 83px;
+top: 136px;
+
 }
-.fit2{
+.rect1{
     position: absolute;
-left: 63.83%;
-right: 30.39%;
-top: 25.59%;
-bottom: 10.2%;
+    width: 362px;
+    height: 353px;
+    left: 539px;
+    top: 136px;
 }
-.fitting{
-    position:absolute;
-    left:115px;
-    top:260px;
-}
-.fitting1{
+.rect2{
     position: absolute;
-left: 37.83%;
-right: 30.39%;
-top: 36.59%;
-bottom: 10.2%;
+    width: 362px;
+    height: 353px;
+    left: 995px;
+    top: 136px;
+    
 }
-.fitting2{
+
+.rect_{
     position: absolute;
-    left: 65.83%;
-    right: 30.39%;
-    top: 34.59%;
-    bottom: 10.2%;
+    width: 362px;
+    height: 353px;
+    left: 83px;
+    top: 534px;
+}
+.rect_1{
+    position: absolute;
+    width: 362px;
+    height: 353px;
+    left: 539px;
+    top: 534px;
+}
+.rect_2{
+    position: absolute;
+    width: 362px;
+    height: 353px;
+    left: 995px;
+    top: 534px;
+    
+}
+.students{
+    position: absolute;
+    width: 217px;
+    height: 83px;
+    left: 958px;
+    top: 37px;
+}
+.staffs{
+    position: absolute;
+width: 162px;
+height: 83px;
+left: 1243px;
+top: 37px;
 }
